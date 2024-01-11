@@ -1,0 +1,12 @@
+{
+  "domain": "ulsan_bus",
+  "name": "ulsan_bus",
+  "documentation": "https://github.com/miri6913/ulsan_bus",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@miri6913"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "1.4.1"
+}
